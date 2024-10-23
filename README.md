@@ -1,1 +1,17 @@
-# cs98564
+java c
+CAS EC371 Environmental Economics - Fall 2024
+Homework Assignment #2
+October 15, 2024Due Date: At the beginning of the class on Tuesday, October 22nd, 2024, as a stapled single document. It is an in-person and in-class submission. Late submissions are not accepted.Please write  down your  name  and  BU  ID  on  each  page  in  your  submission.  In  your answers, please show your reasoning and all your computations systematically. Please write clearly.  Assignment is 100 points in total.
+Q.1. (35 Points) There  are  two  consumers  with  demand  curves  for  the  improved environmental quality (pure public good) (G):G = 200 − 10p1   and   G = 400 − 10p2,  where  p1    and  p2    are  the   consumers’  aggregate marginal willingness to pay for the improvement in environmental quality. Answer the following questions.
+a. Calculate market demand for improved environmental quality.b. If the  marginal  cost  of  improving  the  environmental  quality  is  $40,  find  the  Pareto efficient   (Lindahl)   equilibrium   that   achieves efficient allocation of improvement in environmental quality provision in this community, that is solve for (G*, p*1, p*2) at marginal cost of $40.c. If the marginal cost of providing the improvement is $16, find the Pareto efficient (Lindahl) equilibrium that achieves efficient allocation of the improvement in environmental quality provision in this community, that is solve for (G ^, p1(^), p2(^)) at marginal cost of $40.Q.2. (30 Points) Residence of V are all fishermen. They all go for fishing in a lake where their village is surrounding.  When they spend total of ℎ hours in fishing, the total fish they harvest (in kg) follows the harvest function of  f(ℎ) = 25. ℎ − 8/1. ℎ 2 . The marginal cost of fishing is estimated to be $10 for every hour,i.e. MC = $10 (代 写CAS EC371 Environmental Economics - Fall 2024 Homework Assignment #2Matlab
+代做程序编程语言i.e. the total cost is C  = 10. ℎ). All fishermen are price takes and sell their catch at a market price of $ 2 per kg of fish, i.e. p = $2).  Answer the following questions.
+a. Calculate the marginal value product (MVPℎ) and average value product of hours (AVPℎ ) spend in fishing.
+b. Calculate the private equilibrium number of hours, ℎp  when all fisherman acts in their own interest.
+c. Calculate the socially optimal hours fishing, ℎso.
+d. Compare ℎp  and ℎso  to comment on what causes for them to diverge?Q.3. (35 Points) A textile firm is producing shirts while creating water pollution due to dye chemicals discharge to local river. Water pollution affects town people who uses the river for recreation. The marginal benefit to the textile firm to discharge pollution is estimated to be MB  = 20 − 0.1 ∗ E. The damagedone to the town people is estimated to be MD = 2 + 0.08 ∗ E.  Both the firm and the representatives of the town people decides to  negotiate  the  pollution  level  that  will  be  produced  by the  firm.  (Hint:  If you  plot marginal benefit and damage curves in the graph, it might be helpful).
+a. If  regional   government  has  given   priority  to   economic  development  and  thus allowed the textile firm to pollute without any regulations in place, calculate the range for total payment that can be used to bargain between the firm and the town people.
+b. If regional government has given priority to people who benefit from recreational services  and  has  an  enforcement  means  in  place,  calculate  the  range  for  total payment that can be used to bargain between the firm and the town people.
+c. What is the  maximum transaction cost levels that the bargaining can successfully carried on for part a and for part b.
+
+         
+加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
